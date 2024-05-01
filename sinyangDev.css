@@ -202,8 +202,8 @@ body {
   min-height: 500px;
   position: absolute;
   z-index: 0;
-  top: 110px;
-  right: 190px;
+  top: 15%;
+  right: 13%;
   border-radius: 25px;
   background-color: rgba(70, 70, 70, 0.88);
   box-shadow: 0 0 11px -5px rgba(50, 50, 50, 1);
@@ -211,6 +211,7 @@ body {
 
 .main_container1 > h1 {
   font-size: 55px;
+  padding: 30px 0 0 0;
 }
 
 .main_container2 {
@@ -220,8 +221,8 @@ body {
   width: 400px;
   height: 80px;
   z-index: 0;
-  top: 340px;
-  right: 495px;
+  top: 55%;
+  right: 33%;
   background-color: rgba(255, 255, 255, 0.15);
   border-radius: 25px;
   box-shadow: 0 0 11px -5px rgba(50, 50, 50, 1);
