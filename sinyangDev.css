@@ -189,8 +189,8 @@ body {
   margin: 4em 0 0 0;
   position: fixed;
   border-radius: 25px;
-  box-shadow: 0 0 11px -5px rgba(50, 50, 50, 1);
   background-color: rgba(255, 255, 255, 0.15);
+  box-shadow: 0 0 11px -5px rgba(50, 50, 50, 1);
 }
 
 .sidebar_small_menu > ul {
