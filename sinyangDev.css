@@ -190,6 +190,9 @@ body {
   z-index: 2;
   top: 50px;
 }
+.sidebar_small_menu > ul > li {
+  cursor: pointer;
+}
 
 .sn_main {
   display: flex;
