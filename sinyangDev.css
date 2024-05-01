@@ -203,7 +203,7 @@ body {
   position: absolute;
   z-index: 0;
   top: 15%;
-  right: 13%;
+  right: 10%;
   border-radius: 25px;
   background-color: rgba(70, 70, 70, 0.88);
   box-shadow: 0 0 11px -5px rgba(50, 50, 50, 1);
@@ -222,7 +222,7 @@ body {
   height: 80px;
   z-index: 0;
   top: 55%;
-  right: 33%;
+  right: 30%;
   background-color: rgba(255, 255, 255, 0.15);
   border-radius: 25px;
   box-shadow: 0 0 11px -5px rgba(50, 50, 50, 1);
