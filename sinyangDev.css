@@ -101,7 +101,7 @@ body {
   align-items: center;
   width: 13em;
   height: 110%;
-  background-color: rgba(70, 70, 70, 0.88);
+  background-color: rgba(70, 70, 70, 0.7);
   margin: -4.3em 0 0 0;
 }
 
@@ -175,7 +175,7 @@ body {
   position: fixed;
   border-radius: 25px;
   box-shadow: 0 0 11px -5px rgba(50, 50, 50, 1);
-  background-color: rgba(255, 255, 255, 0.15);
+  background-color: rgba(255, 255, 255, 0.1);
 }
 
 .sidebar_small_menu > ul {
@@ -202,12 +202,20 @@ body {
 
 .main_background_video {
   position: absolute;
-  z-index: -1;
+  z-index: -2;
   top: 0;
   left: 0;
   width: 100%;
   opacity: 0.75;
   object-fit: cover;
+}
+
+.bg_filter {
+  position: absolute;
+  z-index: -1;
+  background-color: rgba(70, 70, 70, 0.3);
+  width: 98.9vw;
+  height: 157.7vh;
 }
 
 .main_container1 {
@@ -221,7 +229,7 @@ body {
   top: 15%;
   right: 10%;
   border-radius: 25px;
-  background-color: rgba(70, 70, 70, 0.88);
+  background-color: rgba(70, 70, 70, 0.7);
   box-shadow: 0 0 11px -5px rgba(50, 50, 50, 1);
 }
 
@@ -239,7 +247,7 @@ body {
   z-index: 0;
   top: 55%;
   right: 30%;
-  background-color: rgba(255, 255, 255, 0.15);
+  background-color: rgba(255, 255, 255, 0.1);
   border-radius: 25px;
   box-shadow: 0 0 11px -5px rgba(50, 50, 50, 1);
 }
